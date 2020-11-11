@@ -22,7 +22,7 @@ public class Methode_Char {
 		char lettre = validerChoixMenu("Veuillez saisir une lettre entre a et v : ",
 				"Erreur! Veuillez saisir une lettre valide", 'a', 'v');
 		
-		System.out.println("\nLe choix du menu est : " +lettre);
+		System.out.println("\nLe choix des menus est : " +lettre);
 	}
 
 }
