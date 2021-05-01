@@ -1,0 +1,54 @@
+.nav-link{
+    font-size: 12pt;
+    background-color: #dae0e5;
+}
+
+.nav-item0{
+    background-color: #00067b;
+}
+
+.nav-item1{
+    background-color: #004085;
+}
+
+.nav-item2{
+    background-color: #005cbf;
+}
+
+.nav-item3{
+    background-color: #3C78B9;
+}
+
+
+.Texte{
+    font-size: 13pt;
+
+}
+
+.Titre{
+    color: #00067b;
+    margin-left: 30pt;
+}
+
+.col-sm-6 h2{
+    color: #00067b;
+}
+
+.col-sm-8 h2{
+    color: #00067b;
+}
+
+
+.footer{
+    background-color: #004085;
+    color: white;
+}
+.embed-responsive-item{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
